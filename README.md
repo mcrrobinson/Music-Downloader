@@ -1,2 +1,2 @@
-# music-downloader
+# Music Downloader
 Music Downloader
